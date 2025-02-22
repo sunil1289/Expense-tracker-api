@@ -1,5 +1,6 @@
 💰 Expense Tracker REST API
-A RESTful API built with Spring Boot for tracking expenses. This project uses PostgreSQL as the relational database and JdbcTemplate for database interactions. We’ve added JSON Web Token (JWT) authentication to secure endpoints, ensuring only logged-in users can access protected resources.
+A RESTful API built with Spring Boot for tracking expenses. This project uses PostgreSQL as the relational database and JdbcTemplate for database interactions.
+We’ve added JSON Web Token (JWT) authentication to secure endpoints, ensuring only logged-in users can access protected resources.
 
 
 🚀 Setup and Installation
@@ -67,7 +68,8 @@ Run the script directly in your PostgreSQL client (e.g., pgAdmin or psql).
 
 
 4. (Optional) Update Database Configuration
-If your database is hosted on a cloud platform or you’ve customized the username/password in the SQL script, update the src/main/resources/application.properties file:
+If your database is hosted on a cloud platform or you’ve customized the username/password in the SQL script,
+ update the src/main/resources/application.properties file:
 
 properties
 Wrap
