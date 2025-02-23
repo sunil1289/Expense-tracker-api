@@ -8,7 +8,7 @@ Features
 Manage expense categories (e.g., Food, Travel, Utilities).
 Record and track transactions with details like amount, date, and category.
 RESTful endpoints for seamless integration with front-end applications or other services.
-Built with Spring Boot, leveraging Spring jdbctemplete for database interactions and Spring MVC for API handling.
+Built with Spring Boot, leveraging Spring jdbctemplete for database interactions.
 Configurable database (default: H2 in-memory, easily switchable to MySQL/PostgreSQL).
 
 
