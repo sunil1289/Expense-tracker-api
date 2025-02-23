@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Expense-tracker-api
 =======
 💰 Expense Tracker REST API
@@ -113,4 +113,3 @@ Spring Boot: Backend framework
 PostgreSQL: Database
 JdbcTemplate: Database interaction
 JWT: Authentication
->>>>>>> master
