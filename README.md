@@ -2,7 +2,17 @@
 # Expense-tracker-api
 
 💰 Expense Tracker REST API
-A RESTful API built with Spring Boot for tracking expenses. This project uses PostgreSQL as the relational database and JdbcTemplate for database interactions.
+A RESTful API built with Spring Boot to manage expense categories and transactions. This application allows users to create, read, update, and delete (CRUD) categories and transactions, making it easy to track and organize expenses.
+
+Features
+Manage expense categories (e.g., Food, Travel, Utilities).
+Record and track transactions with details like amount, date, and category.
+RESTful endpoints for seamless integration with front-end applications or other services.
+Built with Spring Boot, leveraging Spring jdbctemplete for database interactions and Spring MVC for API handling.
+Configurable database (default: H2 in-memory, easily switchable to MySQL/PostgreSQL).
+
+
+
 I have added JSON Web Token (JWT) authentication to secure endpoints, ensuring only logged-in users can access protected resources.
 
 
