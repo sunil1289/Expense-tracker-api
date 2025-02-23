@@ -89,7 +89,9 @@ Wrap
 
 
 spring.datasource.url=jdbc:postgresql://localhost:5432/expensetrackerdb
+
 spring.datasource.username="your_databse_username"
+
 spring.datasource.password="your_databse_password"
 
 
